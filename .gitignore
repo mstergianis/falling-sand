@@ -1,0 +1,3 @@
+/target
+/static/*.wasm
+/static/falling-sand.*
